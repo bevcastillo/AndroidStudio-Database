@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistrationDatabase</string>
+    <string name="title_activity_registration">Registration Form</string>
+
+    <!--other navigation bar titles-->
+    <string name="title_activity_login">Login Form</string>
+    <string name="title_activity_homepage">Home</string>
+</resources>
